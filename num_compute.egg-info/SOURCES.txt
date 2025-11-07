@@ -1,0 +1,9 @@
+pyproject.toml
+num_compute/__init__.py
+num_compute/list_sequence.py
+num_compute/random_walk.py
+num_compute/sin_computing.py
+num_compute.egg-info/PKG-INFO
+num_compute.egg-info/SOURCES.txt
+num_compute.egg-info/dependency_links.txt
+num_compute.egg-info/top_level.txt

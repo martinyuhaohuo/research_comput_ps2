@@ -1,0 +1,9 @@
+name: math
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - ipykernel
+prefix: /opt/anaconda3/envs/math
